@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261121/gamessinner666-dot/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/gamessinner666-dot/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-Editorial 1024x1024 visual broadsheet summarizing Saturday 21 November 2026 world news across 28 date-verified dispatches covering 6 continents and space, with 6 custom editorial illustrations, a 24h UTC chronology strip, and a high-contrast global locator atlas, exported deterministically to `/output/entry.png`.
+Unified 1024x1024 illustrated global atlas front page summarizing Saturday 21 November 2026 world news across 23 date-verified stories covering 6 continents and space, featuring 6 custom editorial illustrations, a full-width annotated world map with a Mercury orbit inset, and a 24h UTC chronology ribbon, exported deterministically to `/output/entry.png`.
 
 ## Run it
 
