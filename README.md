@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261121/gamessinner666-dot/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/gamessinner666-dot/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-Editorial 1024x1024 visual broadsheet summarizing Saturday 21 November 2026 world news across 16 verified dispatches, custom illustrations, and a global locator map, exported deterministically to `/output/entry.png`.
+Editorial 1024x1024 visual broadsheet summarizing Saturday 21 November 2026 world news across 26 verified dispatches, 6 custom editorial illustrations, 3 maps, and a 24h UTC timeline, exported deterministically to `/output/entry.png`.
 
 ## Run it
 
